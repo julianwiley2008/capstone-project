@@ -1,2 +1,1 @@
-# capstone-project
 # As I complete my graduate studies at NU, my capstone project will ultimately serve as an evolving artifact that focuses on instructional design, technical training and visual communication. I believe the data and other resources contained in this repository can help in clarifying the future of instructional design —- especially in technical training environments where clarity, performance, and adaptability are key. Expect additions and updates that center around data-driven, evidence-based and human-centered learning environments and experiences.
